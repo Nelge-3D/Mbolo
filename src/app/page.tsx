@@ -3,7 +3,6 @@
 import HeroSection from "@/components/Herosection";
 import LanguagesSection from "@/components/LanguagesSection";
 import Footer from "@/components/Footer";
-import Page from "@/app/mbolo/page"
 
 export default function Home() {
   return (
