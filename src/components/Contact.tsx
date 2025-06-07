@@ -27,7 +27,7 @@ const ContactSection: FC = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        Contacte <span className="text-green-800">l'équipe</span>
+        Contacte <span className="text-green-800">l&apos;équipe</span>
       </motion.h2>
 
       <form
