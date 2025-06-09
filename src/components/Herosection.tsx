@@ -40,7 +40,7 @@ const ImmersiveHeader: FC = () => {
   }, []);
 
   return (
-    <section className="relative w-full h-screen bg-white overflow-hidden flex flex-col items-center justify-center text-center px-4">
+    <section id="home" className="relative w-full h-screen bg-white overflow-hidden flex flex-col items-center justify-center text-center px-4">
       {/* Mots animés */}
       <AnimatePresence>
         {words.map(({ id, text, x, y }) => (

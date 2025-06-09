@@ -189,7 +189,7 @@ const LanguageDemoSection: FC = () => {
         >
           <ChevronDown className="w-7 h-7" />
         </motion.div>
-        <p className="text-sm text-gray-500">Découvre la suite</p>
+        <p className="text-sm text-gray-500">Se connecter pour découvre la suite</p>
       </div>
     </section>
   );
